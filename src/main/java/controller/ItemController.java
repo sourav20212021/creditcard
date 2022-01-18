@@ -19,5 +19,9 @@ public class ItemController {
 
     }
 
+    public void showItems(){
+        System.out.println("Lorem Show");
+    }
+
 
 }
