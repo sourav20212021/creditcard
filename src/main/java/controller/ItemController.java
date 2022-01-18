@@ -22,6 +22,10 @@ public class ItemController {
     public void showItems(){
         System.out.println("Lorem Show");
     }
+    
+    public String msgDet(){
+        return "hello";
+    }
 
 
 }
