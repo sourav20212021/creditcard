@@ -1,31 +1,9 @@
 package controller;
 
 public class ItemController {
-
-    public void createItem(){
-        System.out.println("Create Item Controller");
+    private final String fname="hello";
+    private final String lname="world";
+    public static void det_1(){
+        System.out.println("Hello");
     }
-     public void updateItem(){
-         System.out.println("Update Item Controller");
-    }
-    public void getItem(){
-
-    }
-
-    public void getAllItems(){
-
-    }
-    public void deleteItem(){
-
-    }
-
-    public void showItems(){
-        System.out.println("Lorem Show");
-    }
-    
-    public String msgDet(){
-        return "hello";
-    }
-
-
 }
