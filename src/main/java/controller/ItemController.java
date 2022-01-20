@@ -20,4 +20,7 @@ public class ItemController {
     public static void func_5(){
         System.out.println("Hello5");
     }
+     public static void func_6(){
+        System.out.println("Hello6");
+    }
 }
