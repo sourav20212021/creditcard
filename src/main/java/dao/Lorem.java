@@ -6,6 +6,12 @@ public class Lorem {
     void disp1(){
         System.out.println(fname);
     }
+    void disp3(){
+
+    }
+    void disp4(){
+
+    }
     void disp2(){
         System.out.println("Hello-1");
         System.out.println("Hello-2");

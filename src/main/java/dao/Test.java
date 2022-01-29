@@ -8,6 +8,9 @@ public class Test {
     System.out.println("dev-2");
       System.out.println("dev-3");
   }
+  void msg_0(){
+
+  }
     void msg_1(){
         System.out.println("hello-1");
         System.out.println("hello-2");
