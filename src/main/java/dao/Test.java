@@ -1,6 +1,9 @@
 package dao;
 
 public class Test {
+   void case_1(){
+    System.out.println("dev-1");
+  }
   void disp_2(){
     System.out.println("dev-1");
   }
@@ -10,6 +13,9 @@ public class Test {
   }
   void msg_0(){
 
+  }
+   void case_2(){
+    System.out.println("dev-1");
   }
     void msg_1(){
         System.out.println("hello-1");
