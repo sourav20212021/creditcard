@@ -18,4 +18,10 @@ public class ItemController {
 	public String getMiddleName(){
 		return "HelloJonathon";
 	}
+	public String getHostName(){
+		return "HelloJonathon-HOST";
+	}
+	public String getDomainName(){
+		return "HelloJonathon-DOMAIN";
+	}
 }
