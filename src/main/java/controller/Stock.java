@@ -8,4 +8,12 @@ public class ItemController {
 		return "HelloJack";
 	}
 	
+	public String getFirstName(){
+		return "HelloJack";
+	}
+	
+	public String getLastName(){
+		return "HelloJonathon";
+	}
+	
 }
