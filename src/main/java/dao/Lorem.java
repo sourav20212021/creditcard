@@ -20,4 +20,8 @@ public class Lorem {
     void disp3(){
     	System.out.println("Lorem Dolar-1");
     }
+    
+    void disp4(){
+    	System.out.println("Lorem Dolar-2");
+    }
 }
