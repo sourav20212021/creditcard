@@ -11,9 +11,5 @@ public class BMW implements Car{
 		
 		System.out.println("This is price");
 	}
-	
-	public void qa_desc_1(){
-		System.out.println("qa_desc_1");
-	}
 
 }
