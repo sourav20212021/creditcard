@@ -8,6 +8,7 @@ public class BMW implements Car{
 	}
 	
 	public void price(){
+		
 		System.out.println("This is price");
 	}
 
