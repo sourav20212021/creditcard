@@ -12,8 +12,15 @@ public class ArrayExec {
         System.out.println("I am a Geek7");
     }
 
-    public void msg_1(){
+    public void disp_config_1(){
         System.out.println("msg-1");
+        System.out.println("disp-1");
+        System.out.println("disp-2");
+    }
+    public void disp_config_2(){
+        System.out.println("msg-1");
+        System.out.println("disp-1");
+        System.out.println("disp-2");
     }
     public void msg_2(){
         System.out.println("msg-2");
