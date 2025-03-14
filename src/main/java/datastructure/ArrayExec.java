@@ -11,4 +11,14 @@ public class ArrayExec {
         System.out.println("I am a Geek6");
         System.out.println("I am a Geek7");
     }
+
+    public void msg_1(){
+        System.out.println("msg-1");
+    }
+    public void msg_2(){
+        System.out.println("msg-2");
+    }
+    public void msg_3(){
+        System.out.println("msg-3");
+    }
 }
