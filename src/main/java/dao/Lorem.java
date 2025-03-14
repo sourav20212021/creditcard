@@ -26,4 +26,12 @@ public class Lorem {
         System.out.println("Hello-1");
         System.out.println("Hello-2");
     }
+
+    void disp3(){
+    	System.out.println("Lorem Dolar-1");
+    }
+
+    void disp4(){
+    	System.out.println("Lorem Dolar-2");
+    }
 }
