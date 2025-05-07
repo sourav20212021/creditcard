@@ -18,6 +18,12 @@ public class Lorem {
     void show1(){
         System.out.println(fname);
     }
+    void disptest_1(){
+
+    }
+    void disptest_2(){
+
+    }
     void disp2(){
         System.out.println("Hello-1");
         System.out.println("Hello-2");

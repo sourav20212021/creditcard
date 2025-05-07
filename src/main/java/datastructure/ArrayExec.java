@@ -10,6 +10,7 @@ public class ArrayExec {
         System.out.println("I am a Geek5");
         System.out.println("I am a Geek6");
         System.out.println("I am a Geek7");
+        System.out.println("I am a Geek8");
     }
 
     public void disp_config_1(){
